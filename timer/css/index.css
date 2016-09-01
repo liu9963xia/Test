@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: black;
+}
+.main_div{
+	width: 400px;
+	height: 400px;
+	margin: 150px auto;
+	resize: auto;
+	box-shadow: 10px 15px 15px antiquewhite;
+	border: 1px dashed wheat;
+	border-radius: 50% 50%;
+	background-image: url(../img/239382906895.gif);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	text-align: center;
+}
+.main_div h1{
+	font-size: 300px;
+	color: white;
+	text-shadow: 10px 5px 5px #FF0000;
+}
